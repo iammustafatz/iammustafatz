@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @iammustafatz
-- 👀 I’m interested in making Websites
-- I’m know Tailwind CSS, BOOTSTRAP, NEXT JS, REACT JS
+- 👀 I’m interested in Data Engineering
+- I’m know SQL, Python, ETL Jobs, Pandas, Pyspark, Tableau, Tailwind CSS, BOOTSTRAP, NEXT JS, REACT JS
 - 💞️ I’m looking for someone to hire me
