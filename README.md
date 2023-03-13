@@ -12,13 +12,11 @@
 
 ***🧠 graduated B.Sc.Computer Science - Gold Medalist and Pursuing Masters in Data Engineering***
 
-***👯‍♀️ I'm looking to collaborate on...***
-
 ***🤔 studying, exploring and working on codes***
 
 ***💬 Ask me anything via Linkedin***
 
-***📫 How to reach me...***
+***📫 living in Chennai...***
 
 
 ## **🚀 About Me**
