@@ -31,40 +31,17 @@
 
 ## **Contributions**
 
-*Sellers are always welcome!*
+`Sellers are always welcome!`
 
-**[TFT Traders](https://www.tfttraders.com/) , [Web Cheap](https://webcheap.vercel.app/) , [Loanspad](https://fiverclient.vercel.app/) , [SMC](https://optimallabs.vercel.app/)**
+*[TFT Traders](https://www.tfttraders.com/) , [Web Cheap](https://webcheap.vercel.app/) , [Loanspad](https://fiverclient.vercel.app/) , [SMC](https://optimallabs.vercel.app/)*
 
-*Please adhere to [Fiverr](https://www.fiverr.com/iammustafatz) `for sales`.*
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+***Please adhere to [Fiverr](https://www.fiverr.com/iammustafatz) `for sales`.***
 
 
-## Related
 
-Here are some related projects
+## **Related**
 
-[Awesome README](https://github.com/matiassingers/awesome-readme)
+`Here are some related projects`
 
-
-## Roadmap
-
-- Additional browser support
-
-- Add more integrations
-
-
-## Support
-
-For support, email fake@fake.com or join our Slack channel.
-
-
-## Tech Stack
-
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
+*[ETL using Luigi](https://github.com/iammustafatz/ETL-using-Luigi) , [Whatsapp Data Analysis](https://github.com/iammustafatz/Whatsapp-Data-Analysis) , [MSSQL Database on railway ticket system](https://github.com/iammustafatz/MSSQL-DATABASE-ON-RAILWAY-TICKET-SYSTEM) , [GE Aviation KPI Dashboard](https://public.tableau.com/views/GEAviationKPIDashboard/GEAviationKPIDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) , [Netflix Action Adventures Report](https://public.tableau.com/views/NetflixActionAdventures/NetflixActionAdventureDashboard?:language=en-US&:display_count=n&:origin=viz_share_link) , [Tata Data visualization Intern - CMO and CEO Dashboard](https://public.tableau.com/views/TataDataVisualizationIntern-CMOANDCEODASHBOARD/TataDataVisualizationInternship?:language=en-US&:display_count=n&:origin=viz_share_link)*
 
