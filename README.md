@@ -46,7 +46,5 @@
 
 
 ## **Showcases**
-<p><img width="350" height="620" src="https://github.com/iammustafatz/iammustafatz/blob/main/ezgif-2-d7d9264634.gif" alt="giffe/><p>
 
-#
-`Rate my repos`
+![App Screenshot](https://github.com/iammustafatz/iammustafatz/blob/main/ezgif-2-d7d9264634.gif)
