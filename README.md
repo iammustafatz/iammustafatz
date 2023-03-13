@@ -29,6 +29,20 @@
 *Javascript, HTML, CSS, React.js, Next.js, React Native, Python, Flask, SQL, Pyspark, Airflow, Mlflow, Tableau, Hive, Luigi...*
 
 
+## **Related**
+
+`Here are some related projects`
+
+*[ETL using Luigi](https://github.com/iammustafatz/ETL-using-Luigi) , [Whatsapp Data Analysis](https://github.com/iammustafatz/Whatsapp-Data-Analysis) , [MSSQL Database on railway ticket system](https://github.com/iammustafatz/MSSQL-DATABASE-ON-RAILWAY-TICKET-SYSTEM) , [GE Aviation KPI Dashboard](https://public.tableau.com/views/GEAviationKPIDashboard/GEAviationKPIDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) , [Netflix Action Adventures Report](https://public.tableau.com/views/NetflixActionAdventures/NetflixActionAdventureDashboard?:language=en-US&:display_count=n&:origin=viz_share_link) , [Tata Data visualization Intern - CMO and CEO Dashboard](https://public.tableau.com/views/TataDataVisualizationIntern-CMOANDCEODASHBOARD/TataDataVisualizationInternship?:language=en-US&:display_count=n&:origin=viz_share_link)*
+
+
+
+
+
+## **Showcases**
+<p><img width="350" height="620" src="https://github.com/iammustafatz/iammustafatz/blob/main/ezgif-2-d7d9264634.gif" alt="giffe/><p>
+
+#
 ## **Contributions**
 
 `Sellers are always welcome!`
@@ -36,12 +50,4 @@
 *[TFT Traders](https://www.tfttraders.com/) , [Web Cheap](https://webcheap.vercel.app/) , [Loanspad](https://fiverclient.vercel.app/) , [SMC](https://optimallabs.vercel.app/)*
 
 ***Please adhere to [Fiverr](https://www.fiverr.com/iammustafatz) `for sales`.***
-
-
-
-## **Related**
-
-`Here are some related projects`
-
-*[ETL using Luigi](https://github.com/iammustafatz/ETL-using-Luigi) , [Whatsapp Data Analysis](https://github.com/iammustafatz/Whatsapp-Data-Analysis) , [MSSQL Database on railway ticket system](https://github.com/iammustafatz/MSSQL-DATABASE-ON-RAILWAY-TICKET-SYSTEM) , [GE Aviation KPI Dashboard](https://public.tableau.com/views/GEAviationKPIDashboard/GEAviationKPIDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) , [Netflix Action Adventures Report](https://public.tableau.com/views/NetflixActionAdventures/NetflixActionAdventureDashboard?:language=en-US&:display_count=n&:origin=viz_share_link) , [Tata Data visualization Intern - CMO and CEO Dashboard](https://public.tableau.com/views/TataDataVisualizationIntern-CMOANDCEODASHBOARD/TataDataVisualizationInternship?:language=en-US&:display_count=n&:origin=viz_share_link)*
 
