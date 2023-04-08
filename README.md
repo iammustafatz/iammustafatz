@@ -20,7 +20,7 @@
 
 
 ## **🚀 About Me**
-*I'm an Indian-based Data Engineer and Web Developer focused on creating data pipelines and react.js, mern stack websites. I value trying new things, attention to detail and living life with love and empathy....*
+*As an Indian-based Data Engineer and Web Developer, I specialize in creating efficient data pipelines and designing websites using the MERN stack, with a particular emphasis on React.js. I am passionate about exploring new technologies and tools that enhance my work quality and efficiency. I pay close attention to detail and approach every project with a meticulous mindset to ensure that the end product meets the highest standards...*
 
 
 ## **🛠 Skills**
